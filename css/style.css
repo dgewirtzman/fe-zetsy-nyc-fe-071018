@@ -25,7 +25,8 @@ h1 {
     font-family: 'Baskerville';
     font-weight: bold;
     border-bottom: 1px solid #ccc;
-    padding-bottom: 10px;
+  	padding-bottom: 10px;
+  	margin: 0 0 5px;
 }
 
 header img {
