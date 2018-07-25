@@ -34,7 +34,11 @@ header img {
 }
 
 a img {
-  border: 5px #ccc solid;;
+  border: 5px #ccc solid;
+}
+
+a img:hover {
+  border: 5px rgb(152,173,166) solid;
 }
 
 h2 {
